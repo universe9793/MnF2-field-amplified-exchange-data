@@ -1,0 +1,4 @@
+hypothesis,deltaJ7_ueV,Bstar_A_T,Bstar_Aprime_T,dC_dB_meV2_per_T,notes
+positive,5,-0.17276,0.17276,0.03705,fixed geometric and field conventions
+negative,-5,0.17276,-0.17276,-0.03705,sign-reversed hypothesis
+equal_J7_control,0,0,0,0,null reference

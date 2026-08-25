@@ -1,0 +1,12 @@
+parameter,value,units,notes
+a,4.69,angstrom,published-model lattice parameter
+b,4.69,angstrom,published-model lattice parameter
+c,3.31,angstrom,published-model lattice parameter
+S,2,dimensionless,spin length
+J1,-0.03,meV,published-model exchange parameter
+J2,0.46,meV,published-model exchange parameter
+J4,0.005,meV,published-model exchange parameter
+J7a_plus_J7b,0.022,meV,published-model constraint
+abs_J7a_minus_J7b,0.005,meV,published zero-field constraint
+D_literature,0.82,meV,coefficient of minus D times Sz squared
+Dc_core,-0.615,meV,finite-spin converted program input

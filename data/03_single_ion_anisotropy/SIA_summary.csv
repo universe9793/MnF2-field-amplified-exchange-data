@@ -1,0 +1,13 @@
+quantity,value_ueV,notes
+D1,-4.09,Mn1 site-local tensor
+E1,2.79,Mn1 site-local tensor
+D2,2.58,invariant under rotation into the Mn1 frame
+E2_local,3.35,Mn2 site-local frame
+E2_in_Mn1_frame,-3.35,after the C4 rotation
+Dsym,-0.75,symmetrized value
+Dsym_uncertainty,3.34,half-spread of the two symmetry-equivalent sites
+Esym,-0.28,symmetrized value
+Esym_uncertainty,3.07,half-spread of the two symmetry-equivalent sites
+D_bound,4.1,conservative absolute bound
+E_bound,3.4,conservative absolute bound
+off_diagonal_max,0.22,largest recorded off-diagonal magnitude
