@@ -22,9 +22,3 @@ The 28-Mn dataset contains 240 configurations. Of these, 235 reached the electro
 - DFT total energies are reported in eV per magnetic supercell.
 - Exchange and SIA values are reported in microelectronvolts unless otherwise stated.
 - Configuration identifiers are zero-based.
-
-## Repository scope
-
-This repository contains numerical data only. Simulation and analysis source code is not included.
-
-The release does not include raw VASP output files, dipolar or Ewald convergence datasets, plotting data, or synthetic feasibility datasets.
